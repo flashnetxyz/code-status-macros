@@ -38,7 +38,7 @@ quote = "1.0"
 proc-macro2 = "1.0"
 
 # Binary tool dependencies
-clap = { version = "4.4", features = ["derive"] }
-walkdir = "2.4"
+clap = { version = "4.0", features = ["derive"] }
+walkdir = "2.5"
 colored = "2.0"
 regex = "1.9"
